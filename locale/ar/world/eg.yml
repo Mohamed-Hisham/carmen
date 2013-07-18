@@ -1,0 +1,58 @@
+---
+ar:
+  world:
+    eg:
+      alx:
+        name: ﺔﻳﺭﺪﻨﻜﺳﻹا
+      asn:
+        name: ﻥاﻮﺳﺃ
+      ast:
+        name: ﻁﻮﻴﺳﺃ
+      bh:
+        name: ﺓﺮﻴﺤﺒﻟا
+      bns:
+        name: ﻒﻳﻮﺳ ﻰﻨﺑ
+      c:
+        name: ﺓﺮﻫﺎﻘﻟا
+      dk:
+        name: ﺔﻴﻠﻬﻗﺪﻟا
+      dt:
+        name: ﻁﺎﻴﻣﺩ
+      fym:
+        name: ﻡﻮﻴﻔﻟا
+      gh:
+        name: ﺔﻴﺑﺮﻐﻟا
+      gz:
+        name: ﺓﺰﻴﺠﻟا
+      is:
+        name: ﺔﻴﻠﻴﻋﺎﻤﺳﻻا
+      kb:
+        name: ﺔﻴﺑﻮﻴﻠﻘﻟا
+      kfs:
+        name: ﺦﻴﺸﻟا ﺮﻔﻛ
+      kn:
+        name: ﺎﻨﻗ
+      lux:
+        name: ﺮﺼﻗﻷا
+      mn:
+        name: ﺎﻴﻨﻤﻟا
+      mnf:
+        name: ﺔﻴﻓﻮﻨﻤﻟا
+      mt:
+        name: ﺡﻭﺮﻄﻣ
+      pts:
+        name: ﺪﻴﻌﺳﺭﻮﺑ
+      rs:
+        name: ﺮﻤﺣﻷا ﺮﺤﺒﻟا
+      shr:
+        name: ﺔﻴﻗﺮﺸﻟا
+      shg:
+        name: ﺝﺎﻫﻮﺳ
+      sin:
+        name: ءﺎﻨﻴﺳ ﻝﺎﻤﺷ
+      sos:
+        name: ءﺎﻨﻴﺳ ﺏﻮﻨﺟ
+      suz:
+        name: ﺲﻳﻮﺴﻟا
+      wad:
+        name: ﺪﻳﺪﺠﻟا ﻯﺩاﻮﻟا
