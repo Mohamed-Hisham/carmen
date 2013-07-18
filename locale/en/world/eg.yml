@@ -3,58 +3,56 @@ en:
   world:
     eg:
       alx:
-        name: Al Iskandarīyah
+        name: Alexandria
       asn:
-        name: Aswān
+        name: Aswan
       ast:
-        name: Asyūt
-      ba:
-        name: Al Bahr al Ahmar
+        name: Asyut
       bh:
-        name: Al Buhayrah
+        name: Beheira
       bns:
-        name: Banī Suwayf
+        name: Beni Suef
       c:
-        name: Al Qāhirah
+        name: Cairo
       dk:
-        name: Ad Daqahlīyah
+        name: Al Dakahlia
       dt:
-        name: Dumyāt
+        name: Damietta
       fym:
-        name: Al Fayyūm
+        name: Al Faiyum
       gh:
-        name: Al Gharbīyah
+        name: Al Gharbia
       gz:
-        name: Al Jīzah
-      hu:
-        name: Ḩulwān
+        name: Giza
       is:
-        name: Al Ismā`īlīyah
-      js:
-        name: Janūb Sīnā'
+        name: Al Ismailia
       kb:
-        name: Al Qalyūbīyah
+        name: Al Qalyubia
       kfs:
-        name: Kafr ash Shaykh
+        name: Kafr el-Sheikh
       kn:
-        name: Qinā
+        name: Qena
+      lux:
+        name: Luxor
       mn:
-        name: Al Minyā
+        name: Al Minya
       mnf:
-        name: Al Minūfīyah
+        name: Al Monufia
       mt:
-        name: Matrūh
+        name: Matruh
       pts:
-        name: Būr Sa`īd
-      shg:
-        name: Sūhāj
+        name: Port Said
+      rs:
+        name: Red Sea
       shr:
-        name: Ash Sharqīyah
+        name: Al Sharqia
+      shg:
+        name: Sohag
       sin:
-        name: Shamal Sīnā'
-      su:
-        name: As Sādis min Uktūbar
+        name: North Sinai
+      sos:
+        name: South Sinai
       suz:
-        name: As Suways
+        name: Suez
       wad:
-        name: Al Wādī al Jadīd
+        name: Al Wadi al Jadid
