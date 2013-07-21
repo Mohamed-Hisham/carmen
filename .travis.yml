@@ -4,4 +4,4 @@ rvm:
 
 branches:
   only:
-    - master
+    - arabic_locale

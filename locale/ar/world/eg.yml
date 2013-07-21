@@ -3,56 +3,56 @@ ar:
   world:
     eg:
       alx:
-        name: ﺔﻳﺭﺪﻨﻜﺳﻹا
+        name: اﻹﺳﻜﻨﺪﺭﻳﺔ
       asn:
-        name: ﻥاﻮﺳﺃ
+        name: ﺃﺳﻮاﻥ
       ast:
-        name: ﻁﻮﻴﺳﺃ
+        name: ﺃﺳﻴﻮﻁ
       bh:
-        name: ﺓﺮﻴﺤﺒﻟا
+        name: اﻟﺒﺤﻴﺮﺓ
       bns:
-        name: ﻒﻳﻮﺳ ﻰﻨﺑ
+        name: ﺑﻨﻰ ﺳﻮﻳﻒ
       c:
-        name: ﺓﺮﻫﺎﻘﻟا
+        name: اﻟﻘﺎﻫﺮﺓ
       dk:
-        name: ﺔﻴﻠﻬﻗﺪﻟا
+        name: اﻟﺪﻗﻬﻠﻴﺔ
       dt:
-        name: ﻁﺎﻴﻣﺩ
+        name: ﺩﻣﻴﺎﻁ
       fym:
-        name: ﻡﻮﻴﻔﻟا
+        name: اﻟﻔﻴﻮﻡ
       gh:
-        name: ﺔﻴﺑﺮﻐﻟا
+        name: اﻟﻐﺮﺑﻴﺔ
       gz:
-        name: ﺓﺰﻴﺠﻟا
+        name: اﻟﺠﻴﺰﺓ
       is:
-        name: ﺔﻴﻠﻴﻋﺎﻤﺳﻻا
+        name: اﻻﺳﻤﺎﻋﻴﻠﻴﺔ
       kb:
-        name: ﺔﻴﺑﻮﻴﻠﻘﻟا
+        name: اﻟﻘﻠﻴﻮﺑﻴﺔ
       kfs:
-        name: ﺦﻴﺸﻟا ﺮﻔﻛ
+        name: ﻛﻔﺮ اﻟﺸﻴﺦ
       kn:
-        name: ﺎﻨﻗ
+        name: ﻗﻨﺎ
       lux:
-        name: ﺮﺼﻗﻷا
+        name: اﻷﻗﺼﺮ
       mn:
-        name: ﺎﻴﻨﻤﻟا
+        name: اﻟﻤﻨﻴﺎ
       mnf:
-        name: ﺔﻴﻓﻮﻨﻤﻟا
+        name: اﻟﻤﻨﻮﻓﻴﺔ
       mt:
-        name: ﺡﻭﺮﻄﻣ
+        name: ﻣﻄﺮﻭﺡ
       pts:
-        name: ﺪﻴﻌﺳﺭﻮﺑ
+        name: ﺑﻮﺭﺳﻌﻴﺪ
       rs:
-        name: ﺮﻤﺣﻷا ﺮﺤﺒﻟا
+        name: اﻟﺒﺤﺮ اﻷﺣﻤﺮ
       shr:
-        name: ﺔﻴﻗﺮﺸﻟا
+        name: اﻟﺸﺮﻗﻴﺔ
       shg:
-        name: ﺝﺎﻫﻮﺳ
+        name: ﺳﻮﻫﺎﺝ
       sin:
-        name: ءﺎﻨﻴﺳ ﻝﺎﻤﺷ
+        name: ﺷﻤﺎﻝ ﺳﻴﻨﺎء
       sos:
-        name: ءﺎﻨﻴﺳ ﺏﻮﻨﺟ
+        name: ﺟﻨﻮﺏ ﺳﻴﻨﺎء
       suz:
-        name: ﺲﻳﻮﺴﻟا
+        name: اﻟﺴﻮﻳﺲ
       wad:
-        name: ﺪﻳﺪﺠﻟا ﻯﺩاﻮﻟا
+        name: اﻟﻮاﺩﻯ اﻟﺠﺪﻳﺪ
